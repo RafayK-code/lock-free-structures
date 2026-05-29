@@ -1,1 +1,1 @@
-add_subdirectory(atomic_stack)
+add_subdirectory(lock_free_stack)
