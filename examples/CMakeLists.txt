@@ -1,1 +1,2 @@
-add_subdirectory(lock_free_stack)
+add_executable(stack_basic stack_basic.cpp)
+target_link_libraries(stack_basic lock_free)
